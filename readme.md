@@ -1,9 +1,16 @@
+github just fucked up the readme file. read in raw option.
+
+compile with g++ with following condition:
+
+	g++ IC.cpp -o IC
+
+(Or other codition you like.)
 input should be formatted as followed:
 
-n: no. of vertice
-m: no. of edges
-<each vertex weight>
-<each edges>
+no. of vertice(n)
+no. of edges(m)
+each vertex weight>
+<each edges>(from first to second.)
 
 for example:
 
