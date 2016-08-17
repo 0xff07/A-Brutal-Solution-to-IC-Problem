@@ -1,4 +1,3 @@
-github just fucked up the readme file. read in raw option.
 
 compile with g++ with following condition:
 
@@ -9,8 +8,8 @@ input should be formatted as followed:
 
 	no. of vertice(n)
 	no. of edges(m)
-	each vertex weight>
-	<each edges>(from first to second.)
+	<weight of each vertex>
+	<each edge>(from first to second.)
 
 for example:
 
@@ -25,4 +24,4 @@ for example:
 	5 0
 	4 1
 
-There are more examples in the folder. Most of them come from the essay.
+There are more examples in the folder. Most of them came from the essay.
